@@ -1,0 +1,8 @@
+S;O;N/A;3
+S;P;3;N/A
+O;Q;N/A;3
+O;P;2;N/A
+P;R;2;N/A
+Q;R;4;N/A
+Q;T;N/A;2
+R;T;3;N/A
